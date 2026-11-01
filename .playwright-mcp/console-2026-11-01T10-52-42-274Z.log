@@ -1,0 +1,6 @@
+[    4728ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=b4d963d0:21550
+[    4881ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/favicon.ico:0
+[    4915ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/favicon.ico:0
+[   12621ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://stockkeeper-a02a7.firebaseapp.com/__/firebase/init.json:0
+[   13025ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.googleapis.com/identitytoolkit/v3/relyingparty/createAuthUri?key=AIzaSyDesaNZdtnHyRfPJy4vfNaOaUfJ21cVOEo:0
+[   13696ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=b4d963d0:21550

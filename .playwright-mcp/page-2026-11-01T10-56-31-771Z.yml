@@ -1,0 +1,45 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]: Business HQ
+    - button "Sign out" [ref=e5] [cursor=pointer]
+  - main [ref=e6]:
+    - generic [ref=e8] [cursor=pointer]:
+      - generic [ref=e9]: Approval queue
+      - generic [ref=e10]: 0 pending
+    - generic [ref=e11]:
+      - generic [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: 📦 Amazon FBA
+        - generic [ref=e14]: 0/0
+        - generic [ref=e15]: products selling
+      - generic [ref=e16] [cursor=pointer]:
+        - generic [ref=e17]: 🤖 AI Agents
+        - generic [ref=e18]: —
+        - generic [ref=e19]: Not logged today
+      - generic [ref=e20] [cursor=pointer]:
+        - generic [ref=e21]: 💾 Digital Products
+        - generic [ref=e22]: —
+        - generic [ref=e23]: Not logged today
+      - generic [ref=e24] [cursor=pointer]:
+        - generic [ref=e25]: 🐐 Goat Farm
+        - generic [ref=e26]: —
+        - generic [ref=e27]: Not logged today
+      - generic [ref=e28] [cursor=pointer]:
+        - generic [ref=e29]: 🔧 Hardware Shop
+        - generic [ref=e30]: —
+        - generic [ref=e31]: Not logged today
+  - navigation [ref=e32]:
+    - button "🏠 Home" [ref=e33]:
+      - generic [ref=e34]: 🏠
+      - text: Home
+    - button "✅ Approvals" [ref=e35]:
+      - generic [ref=e36]: ✅
+      - text: Approvals
+    - button "📦 FBA" [ref=e37]:
+      - generic [ref=e38]: 📦
+      - text: FBA
+    - button "✏️ Log" [ref=e39]:
+      - generic [ref=e40]: ✏️
+      - text: Log
+    - button "📊 Reports" [ref=e41]:
+      - generic [ref=e42]: 📊
+      - text: Reports
